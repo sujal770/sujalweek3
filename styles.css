@@ -1,0 +1,43 @@
+* {
+  margin: 0;
+  box-sizing: border-box;
+}
+.heading {
+  color: pink;
+  font-family: sans-serif;
+  font-size: 20px;
+  margin: auto;
+  text-align: center;
+}
+.para-first {
+  color: rgb(222, 144, 222);
+  font-family: sans-serif;
+  font-size: 20px;
+}
+.navigation {
+  background-color: bisque;
+  color: rgb(194, 240, 161);
+  margin: auto;
+  text-align: center;
+}
+section {
+  padding: 2%;
+  margin: auto;
+  text-align: center;
+  background-color: rgb(147, 53, 53);
+}
+nav {
+  text-align: center;
+  margin: auto;
+  align-items: center;
+}
+ul,
+li,
+a {
+  list-style: none;
+  display: flex;
+  margin: auto;
+  align-items: center;
+  text-decoration: none;
+  color: black;
+}
